@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Manik Proch</h1>
 <h3 align="center">A Full Stack web developer from India</h3>
 
-<img align="left" alt="Coding" width="400" src="https://i.postimg.cc/NMttJvDt/75e7ef7aa27009befb076509382b86b8.gif"/>
+<img align="left" alt="Coding" width="400" height="300" src="https://i.postimg.cc/NMttJvDt/75e7ef7aa27009befb076509382b86b8.gif"/>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manik9620&label=Profile%20views&color=0e75b6&style=flat" alt="manik9620" /> </p>
