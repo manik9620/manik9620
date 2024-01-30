@@ -1,4 +1,4 @@
-https://i.postimg.cc/m2B4N4Dy/web-development.gif
+<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/m2B4N4Dy/web-development.gif"/>
 <h1 align="center">Hi 👋, I'm Manik Proch</h1>
 <h3 align="center">A Full Stack web developer from India</h3>
 
